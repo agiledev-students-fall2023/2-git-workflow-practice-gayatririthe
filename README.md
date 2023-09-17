@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[15 Best Software Development Tools for 2023](https://clickup.com/blog/software-development-tools/) 
+
+This article lists out 15 of the best software development tools for the upcoming year. I found this article fascinating since I normally stick to only Visual Studio Code when I program, and haven’t bothered to check out other resources available for software engineers and the different functions they can offer besides just an IDE. Many of the platforms contain multiple features, such as Agile Dashboards or integration with Microsoft BI. For each software that is recommended, the article provides a customer rating from two different sources, their pricing information, their pros, and their cons. 
+
+Out of all the software development tools mentioned, the one that caught my attention the most was ClickUp. ClickUp is extremely helpful for sprint management and agile software development, and finds ways to automate tasks related to these two so nothing falls behind the cracks. They also provide a chrome extension and have free versions available. 
